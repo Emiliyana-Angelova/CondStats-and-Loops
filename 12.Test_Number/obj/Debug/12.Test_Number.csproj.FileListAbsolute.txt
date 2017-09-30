@@ -1,0 +1,5 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\12.Test_Number\bin\Debug\12.Test_Number.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\12.Test_Number\bin\Debug\12.Test_Number.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\12.Test_Number\bin\Debug\12.Test_Number.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\12.Test_Number\obj\Debug\12.Test_Number.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\12.Test_Number\obj\Debug\12.Test_Number.pdb

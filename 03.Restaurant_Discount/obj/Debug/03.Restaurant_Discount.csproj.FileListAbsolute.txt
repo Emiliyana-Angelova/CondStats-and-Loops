@@ -1,0 +1,5 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\03.Restaurant_Discount\bin\Debug\03.Restaurant_Discount.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\03.Restaurant_Discount\bin\Debug\03.Restaurant_Discount.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\03.Restaurant_Discount\bin\Debug\03.Restaurant_Discount.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\03.Restaurant_Discount\obj\Debug\03.Restaurant_Discount.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\03.Restaurant_Discount\obj\Debug\03.Restaurant_Discount.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\13.Game_of_Number\bin\Debug\13.Game_of_Number.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\13.Game_of_Number\bin\Debug\13.Game_of_Number.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\13.Game_of_Number\bin\Debug\13.Game_of_Number.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\13.Game_of_Number\obj\Debug\13.Game_of_Number.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\13.Game_of_Number\obj\Debug\13.Game_of_Number.pdb

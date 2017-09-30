@@ -1,0 +1,6 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\11.Five_Diff_Numbers\bin\Debug\11.Five_Diff_Numbers.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\11.Five_Diff_Numbers\bin\Debug\11.Five_Diff_Numbers.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\11.Five_Diff_Numbers\bin\Debug\11.Five_Diff_Numbers.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\11.Five_Diff_Numbers\obj\Debug\11.Five_Diff_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\11.Five_Diff_Numbers\obj\Debug\11.Five_Diff_Numbers.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\11.Five_Diff_Numbers\obj\Debug\11.Five_Diff_Numbers.pdb

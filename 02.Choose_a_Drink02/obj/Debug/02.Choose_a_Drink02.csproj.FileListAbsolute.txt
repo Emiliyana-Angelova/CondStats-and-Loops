@@ -1,0 +1,5 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\02.Choose_a_Drink02\bin\Debug\02.Choose_a_Drink02.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\02.Choose_a_Drink02\bin\Debug\02.Choose_a_Drink02.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\02.Choose_a_Drink02\bin\Debug\02.Choose_a_Drink02.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\02.Choose_a_Drink02\obj\Debug\02.Choose_a_Drink02.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\02.Choose_a_Drink02\obj\Debug\02.Choose_a_Drink02.pdb

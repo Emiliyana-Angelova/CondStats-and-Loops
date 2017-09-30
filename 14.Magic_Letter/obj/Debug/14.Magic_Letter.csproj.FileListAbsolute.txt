@@ -1,0 +1,5 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\14.Magic_Letter\bin\Debug\14.Magic_Letter.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\14.Magic_Letter\bin\Debug\14.Magic_Letter.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\14.Magic_Letter\bin\Debug\14.Magic_Letter.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\14.Magic_Letter\obj\Debug\14.Magic_Letter.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\14.Magic_Letter\obj\Debug\14.Magic_Letter.pdb

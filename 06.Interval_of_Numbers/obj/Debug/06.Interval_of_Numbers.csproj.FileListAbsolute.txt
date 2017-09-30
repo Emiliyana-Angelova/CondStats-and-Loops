@@ -1,0 +1,6 @@
+c:\users\ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\06.Interval_of_Numbers\bin\Debug\06.Interval_of_Numbers.exe.config
+c:\users\ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\06.Interval_of_Numbers\bin\Debug\06.Interval_of_Numbers.exe
+c:\users\ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\06.Interval_of_Numbers\bin\Debug\06.Interval_of_Numbers.pdb
+c:\users\ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\06.Interval_of_Numbers\obj\Debug\06.Interval_of_Numbers.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\06.Interval_of_Numbers\obj\Debug\06.Interval_of_Numbers.exe
+c:\users\ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\06.Interval_of_Numbers\obj\Debug\06.Interval_of_Numbers.pdb

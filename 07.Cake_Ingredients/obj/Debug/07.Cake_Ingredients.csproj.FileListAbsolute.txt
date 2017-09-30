@@ -1,0 +1,6 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\07.Cake_Ingredients\bin\Debug\07.Cake_Ingredients.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\07.Cake_Ingredients\bin\Debug\07.Cake_Ingredients.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\07.Cake_Ingredients\bin\Debug\07.Cake_Ingredients.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\07.Cake_Ingredients\obj\Debug\07.Cake_Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\07.Cake_Ingredients\obj\Debug\07.Cake_Ingredients.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\07.Cake_Ingredients\obj\Debug\07.Cake_Ingredients.pdb

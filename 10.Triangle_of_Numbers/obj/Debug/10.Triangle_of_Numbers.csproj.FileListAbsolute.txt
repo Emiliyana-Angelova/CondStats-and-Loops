@@ -1,0 +1,5 @@
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\10.Triangle_of_Numbers\bin\Debug\10.Triangle_of_Numbers.exe.config
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\10.Triangle_of_Numbers\bin\Debug\10.Triangle_of_Numbers.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\10.Triangle_of_Numbers\bin\Debug\10.Triangle_of_Numbers.pdb
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\10.Triangle_of_Numbers\obj\Debug\10.Triangle_of_Numbers.exe
+C:\Users\Ema\documents\visual studio 2017\Projects\02.CondStat_and_Loops-Ex\10.Triangle_of_Numbers\obj\Debug\10.Triangle_of_Numbers.pdb
