@@ -1,2 +1,6 @@
 This file is a test message.
+<<<<<<< HEAD
 Editing again in master branch.
+=======
+Hello again.
+>>>>>>> develop
