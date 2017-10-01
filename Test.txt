@@ -1,1 +1,2 @@
 This file is a test message.
+Editing again in master branch.
